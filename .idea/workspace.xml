@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4c1904a-b3fa-40d2-b31a-8a6d09dc93ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="open ended" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bGyugUc9Ouuc6DIdzdXpwBqczb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/University at Buffalo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37241378" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zemin\IdeaProjects\open ended\src\data" />
+      <recent name="C:\Users\zemin\IdeaProjects\open ended\src\GUIclient" />
+      <recent name="C:\Users\zemin\IdeaProjects\open ended" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GUI (2)">
+    <configuration name="DLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.DLL" />
+      <module name="open ended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Days" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="model.Days" />
+      <module name="open ended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GUIclient.GUI" />
+      <module name="open ended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUIclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GUIclient.Server" />
+      <module name="open ended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUIclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TA_App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="model.TA_App" />
+      <module name="open ended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI (2)" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.TA_App" />
+        <item itemvalue="Application.Days" />
+        <item itemvalue="Application.DLL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c1904a-b3fa-40d2-b31a-8a6d09dc93ad" name="Default Changelist" comment="" />
+      <created>1588272948038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588272948038</updated>
+      <workItem from="1588272950794" duration="2913000" />
+      <workItem from="1588297972092" duration="3324000" />
+      <workItem from="1588309063524" duration="3877000" />
+      <workItem from="1588314032733" duration="8139000" />
+      <workItem from="1588360443077" duration="1655000" />
+      <workItem from="1588436929783" duration="9066000" />
+      <workItem from="1588446439750" duration="5279000" />
+      <workItem from="1588454307016" duration="371000" />
+      <workItem from="1588479054323" duration="2263000" />
+      <workItem from="1588481434713" duration="2331000" />
+      <workItem from="1588525079123" duration="9950000" />
+      <workItem from="1588698188010" duration="2315000" />
+      <workItem from="1588702541720" duration="28012000" />
+      <workItem from="1588773078959" duration="7779000" />
+      <workItem from="1588816438250" duration="10061000" />
+      <workItem from="1588870648429" duration="11198000" />
+      <workItem from="1588888760574" duration="18905000" />
+      <workItem from="1588987659556" duration="23627000" />
+      <workItem from="1589043083889" duration="20527000" />
+      <workItem from="1589069315035" duration="483000" />
+      <workItem from="1589069808977" duration="18708000" />
+      <workItem from="1589126898461" duration="9846000" />
+      <workItem from="1589137486701" duration="11192000" />
+      <workItem from="1589156664003" duration="12829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="75" key="#Project_Structure" timestamp="1588275790868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588275790868" />
+    <state x="465" y="204" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589166867134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="204" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589166867134" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589163790286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589163790286" />
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589163058730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589163058730" />
+    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1589088517023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589088517023" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588535880938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588535880938" />
+    <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1589169446713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589169446713" />
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1589169375214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589169375214" />
+    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1589169375214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589169375214" />
+    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1589169375214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589169375214" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1589169375214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589169375214" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1589067114052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589067114052" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1589067114052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589067114052" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1589067114052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589067114052" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1589067114052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589067114052" />
+    <state x="410" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588531818144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1588531818144" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589164317294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589164317294" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589145335917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589145335917" />
+  </component>
+</project>
