@@ -106,7 +106,7 @@ object TA_App {
       return finalOutput
     }
     if (string != "") {
-        val sL = (for (i <- string.split(",")) yield i).toList
+        val sL = (for (i <- string.split(",")) yield i.trim).toList
         var t = ""
         var n = ""
         var d = ""
